@@ -289,6 +289,3 @@ public class UsersPanel extends JPanel {
         JOptionPane.showMessageDialog(this, message, "Error", JOptionPane.ERROR_MESSAGE);
     }
 }
-
-
-
